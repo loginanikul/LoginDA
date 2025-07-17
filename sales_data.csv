@@ -1,0 +1,6 @@
+id	date	region	product	sales_amount
+1	2024-01-01	North	Laptop	1000
+2	2024-01-02	South	Monitor	500
+3	2024-01-05	East	Keyboard	200
+4	2024-02-01	North	Laptop	1200
+5	2024-03-01	South	Monitor	800
